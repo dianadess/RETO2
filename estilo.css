@@ -1,4 +1,59 @@
-body{
-    color: rgb(172, 127, 255);
+
+.main{
+    display: flex;
+    background-color: beige;
+    background-size: cover;
+    height:50px;
+    text-align: left;
+    justify-content: left;
+    
+
+}
+.body {
+   
+       align-items: center;
+       justify-content: center;
+       background-repeat: no-repeat;
+       background-color: crimson;
+       color: rgb(7, 5, 12);
+       
+       
+
+.nav-link{
+    font-style: italic;
+    
+}
+.uno{
+    display: flex ;
+    text-align: right;
+border-color: black;
+border-radius: 50px;
+height: 135px;
+width: 500px;
+padding: 16px;
+margin: 0%;
+;
+
+}
+.uno img{
+    border-radius: 1000px;
+    align-items: center;
+    margin-left: 600px;
+   margi
+justify-content: center;
+}
+.articulo{
+    width: 50px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 1 rem;
+}
+.footer img{
+    border-radius: 50px;
+    width: 200px;
+    margin: 160px;
+    display: flex;
+    display: flex;
     
 }
