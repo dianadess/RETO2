@@ -31,28 +31,26 @@
     height: 188px;
     width: 188px;
     border:solid rgb(206, 224, 235) 5px;
-    
     margin-top: 60%;
     }
 .articulo{
     
-    margin-top: 320px;
-
-    
+    margin-top: 150px;
+    background-color: hsla(310, 35%, 30%, 0.4);
+    border-radius: 50%;
 }
 .titulo,.subtitulo{
     color: black;
-    
     flex-direction: column;
-    letter-spacing: 3px;  
+    letter-spacing: 2px;  
     
   }  
 .footer{ 
     margin-top: 10px;   
 }
  .footer img{
-    border:solid orange 900px;
-    width: 150px;
+    border:solid orange 2px;
+    width: 50px;
     margin: 10px;
  }  
 .footer img:hover{
