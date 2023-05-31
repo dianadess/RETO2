@@ -15,6 +15,7 @@
     text-align: center;
     align-items: center;
     margin-top: 10px;
+}
 .header{
     background-color: rgb(221, 33, 221);
     border-radius: 50px;
@@ -38,11 +39,11 @@
     margin: 80px;
     margin: 20%;
     text-shadow: 20%;
-    flex-direction: column; 
+    flex-direction: column;  
     
-}  
+  }  
 .footer{
-    margin-top: 10px;
+    margin-top: 10px;   
 }
  .footer img{
     border:solid 3px;
