@@ -1,5 +1,5 @@
+
 .body{
-    text-align: center;
     background-image: url(./newfile/imagen/touch.png);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     align-items: center;
@@ -7,46 +7,51 @@
     background-size: cover;  
     height: 40%;
     width: 30%;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 .main{
     background-color: hsla(350, 35%, 30%, 0.4);
-    border-radius: 120px;
+    border-radius: 1200px;
     text-align: center;
     align-items: center;
-    margin-top: 10px;
+    margin-top: 80px;
 }
 .header{
     background-color: rgb(221, 33, 221);
     border-radius: 50px;
-    width: 5px;
-    height: 10px;
-    
-    gap: 2rem;
-    padding: 3rem;
+    width: 45px;
+    height: 45px;
     text-align: center;
+    gap: 1rem;
+    padding: 1rem;
+    
     }
 .imagen {
-    border-radius: 60px;
-    height: 180px;
-    width: 180px;
-    border-color: coral;
+    border-radius: 80px;
+    height: 188px;
+    width: 188px;
+    border:solid rgb(206, 224, 235) 5px;
+    
     margin-top: 60%;
     }
+.articulo{
+    
+    margin-top: 320px;
 
+    
+}
 .titulo,.subtitulo{
     color: black;
-    margin: 80px;
-    margin: 20%;
-    text-shadow: 20%;
-    flex-direction: column;  
+    
+    flex-direction: column;
+    letter-spacing: 3px;  
     
   }  
-.footer{
+.footer{ 
     margin-top: 10px;   
 }
  .footer img{
-    border:solid 3px;
+    border:solid orange 900px;
     width: 150px;
     margin: 10px;
  }  
